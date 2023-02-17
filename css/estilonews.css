@@ -24,8 +24,8 @@ p{
  }
   
  .linha-vertical {
-    width: 200px;
-    height:1px;
+    width: 100vh;
+    height:5px;
     align-items: center;
     background-color: red;
    
