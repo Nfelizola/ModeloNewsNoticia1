@@ -16,15 +16,15 @@ ESTEJAM ZERADOS E LIVRES DE ATRIBUTOS PADRÕES DO NAVEGADOR =====*/
 @import url('https://fonts.googleapis.com/css2?family=News+Cycle:wght@400;700&display=swap');
 
 
-  p{
+ .p{
     color:white;
     font-family: 'News Cycle', sans-serif;
     animation-duration: 3s;
     animation-name: slidein;
   }
   
-  #linha-horizontal {
-    width: 90%;
+ .linha-vertical {
+    width: 200px;
     align-items: center;
     border-right: 1px solid red;
   } 
