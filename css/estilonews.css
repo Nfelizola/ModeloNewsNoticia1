@@ -36,7 +36,7 @@ header{
  
  .linha-vertical {
     width: 100vh;
-    height:100px;
+    height:5px;
     align-items: center;
     background-color: red;
    
