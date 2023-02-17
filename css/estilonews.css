@@ -24,6 +24,7 @@ ESTEJAM ZERADOS E LIVRES DE ATRIBUTOS PADRÕES DO NAVEGADOR =====*/
   }
   
   #linha-horizontal {
-    height: 200px;
+    width: 90%;
+    align-items: center;
     border-right: 1px solid red;
   } 
