@@ -24,8 +24,8 @@ p{
  }
 
 header{ 
-    width: 100px;
-    height: 50px;
+    width: 100vh;
+    height:60px;
     background-color: gray;
    
 }
