@@ -29,6 +29,10 @@ header{
     background-color: gray;
    
 }
+.logo{
+  width: 20%;
+  height:20%;
+}
  
  .linha-vertical {
     width: 100vh;
