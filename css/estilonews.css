@@ -23,3 +23,6 @@ ESTEJAM ZERADOS E LIVRES DE ATRIBUTOS PADRÕES DO NAVEGADOR =====*/
     animation-name: slidein;
   }
   
+  hr{
+    height: 3px;
+    }
