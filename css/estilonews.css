@@ -19,8 +19,6 @@ ESTEJAM ZERADOS E LIVRES DE ATRIBUTOS PADRÕES DO NAVEGADOR =====*/
 p{
     color: black;
     font-family: 'News Cycle', sans-serif;
-    animation-duration: 3s;
-    animation-name: slidein;
  }
 
 header{ 
@@ -39,9 +37,7 @@ header{
     height:5px;
     align-items: center;
     background-color: red;
-   
   } 
-
   nav{
     padding: 2px;
   }
