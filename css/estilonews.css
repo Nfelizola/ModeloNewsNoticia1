@@ -23,7 +23,7 @@ ESTEJAM ZERADOS E LIVRES DE ATRIBUTOS PADRÕES DO NAVEGADOR =====*/
     animation-name: slidein;
   }
   
-  hr{
-    size: 10px;
-    width: 100%> 
-    }
+  #linha-horizontal {
+    height: 200px;
+    border-right: 1px solid red;
+  } 
