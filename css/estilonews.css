@@ -22,7 +22,14 @@ p{
     animation-duration: 3s;
     animation-name: slidein;
  }
-  
+
+header{ 
+    width: 100px;
+    height: 50px;
+    background-color: gray;
+   
+}
+ 
  .linha-vertical {
     width: 100vh;
     height:5px;
